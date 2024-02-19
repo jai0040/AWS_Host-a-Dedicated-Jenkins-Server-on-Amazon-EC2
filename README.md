@@ -28,20 +28,21 @@ Step 16: Now we install Java.<br>
 **Note:** If you want to install Jenkins on your system, you must install Java. If you do not install Java, Jenkins will not run on your system.<br><br>
 Step 17: Install Java.<br><br>
 Command to install Java.
+**Note:** 8 is a version of Java; if you want another version, you can...).<br><br>
 ```
 sudo apt install openjdk-8-jdk -y 
 ``` 
-**Note:** 8 is a version of Java; if you want another version, you can...).<br>
 Step 18: Now Java is installed on your system.<br><br>
 Step 19: Install Jenkins.<br><br>
-Step 20: Visit this website: [Jenkins Installation Docs](https://pkg.jenkins.io/debian-stable/)
+Step 20: Visit this website: [Jenkins Installation Docs](https://pkg.jenkins.io/debian-stable/) <br><br>
 Step 21: Step by step, we install Jenkins.<br><br>
 Step 22: Then you all paste the command in the terminal, and your Jenkins is ready.<br><br>
+
 Command to install Jenkins.
 ```
 sudo apt-get install jenkins
 ``` 
-            
+          
 Step 23: Check the Java version.<br><br>
 ```
 java --version
