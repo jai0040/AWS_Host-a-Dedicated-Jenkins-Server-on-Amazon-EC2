@@ -34,12 +34,7 @@ sudo apt install openjdk-8-jdk -y
 **Note:** 8 is a version of Java; if you want another version, you can...).<br>
 Step 18: Now Java is installed on your system.<br><br>
 Step 19: Install Jenkins.<br><br>
-Step 20:  https://pkg.jenkins.io/<br><br>
-
-Visit this website: [Jenkins Installation Docs](https://pkg.jenkins.io/debian-stable/) 
-<h3>Or</h3>
-Visit this website: [Jenkins Docs](https://pkg.jenkins.io/)
-
+Step 20: Visit this website: [Jenkins Installation Docs](https://pkg.jenkins.io/debian-stable/)
 Step 21: Step by step, we install Jenkins.<br><br>
 Step 22: Then you all paste the command in the terminal, and your Jenkins is ready.<br><br>
 Command to install Jenkins.
