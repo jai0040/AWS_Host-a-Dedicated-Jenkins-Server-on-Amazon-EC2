@@ -1,6 +1,6 @@
 # AWS_Host-a-Dedicated-Jenkins-Server-on-Amazon-EC2
 
-**Host a Dedicated Jenkins Server on Amazon EC2.**
+<h2>Host a Dedicated Jenkins Server on Amazon EC2.</h2>
 
 Following the steps you should follow
 
